@@ -1,4 +1,4 @@
-# open_weather_app
+# weather_app
 
 using open weather app api.
 
